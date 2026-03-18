@@ -216,17 +216,29 @@
         "de": "Verpass nicht die neuen Levels in den kommenden Updates!"
     },
     "UPDATE_AVAILABLE_TITLE": {
-        "en": "A new update is available!"
-    },
+		"en": "A new update is available!",
+		"ru": "Доступно новое обновление!",
+		"fr": "Une nouvelle mise à jour est disponible !",
+		"de": "Ein neues Update ist verfügbar!"
+	},
     "UPDATE_AVAILABLE_TEXT": {
-        "en": "A new version of Cut the Rope: DX is available.\nCurrent: %currentVersion%\nLatest: %latestVersion%\n\nVisit the GitHub releases page to download."
-    },
+		"en": "A new version of Cut the Rope: DX is available.\nCurrent: %currentVersion%\nLatest: %latestVersion%\n\nVisit the GitHub releases page to download.",
+		"ru": "Доступна новая версия Cut the Rope: DX.\nТекущая: %currentVersion%\nПоследняя: %latestVersion%\n\nПосетите страницу релизов на GitHub, чтобы скачать.",
+		"fr": "Une nouvelle version de Cut the Rope: DX est disponible.\nActuelle : %currentVersion%\nDernière : %latestVersion%\n\nVisitez la page des versions sur GitHub pour télécharger.",
+		"de": "Eine neue Version von Cut the Rope: DX ist verfügbar.\nAktuell: %currentVersion%\nNeueste: %latestVersion%\n\nBesuchen Sie die GitHub-Releaseseite zum Herunterladen."
+	},
     "UPDATE_AVAILABLE_DOWNLOAD_BUTTON": {
-        "en": "Download"
-    },
+		"en": "Download",
+		"ru": "Скачать",
+		"fr": "Télécharger",
+		"de": "Herunterladen"
+	},
     "UPDATE_AVAILABLE_LATER_BUTTON": {
-        "en": "Later"
-    },
+		"en": "Later",
+		"ru": "Позже",
+		"fr": "Plus tard",
+		"de": "Später"
+	},
     "ACHIEVEMENT_GAINED": {
         "en": "achievement gained!",
         "ru": "разлочено!",
@@ -369,7 +381,7 @@
     },
     "BOX14_LABEL": {
         "en": "Lantern Box",
-        "ru": "коробке с фонариками",
+        "ru": "C фонариками",
         "fr": "boîte lampion",
         "de": "Laternenkiste",
         "ko": "랜턴 상자",
@@ -383,7 +395,7 @@
     },
     "BOX15_LABEL": {
         "en": "Cheese Box",
-        "ru": "Сырная коробка",
+        "ru": "Сырная",
         "fr": "Boîte à Fromage",
         "de": "Käsekiste",
         "ko": "치즈 박스",
@@ -443,25 +455,46 @@
         "de": "Bald gibt es neue Levels!"
     },
     "ABOUT_FANWORK_MAIN": {
-        "en": "Cut the Rope: DX ver. %versionNo%\n\nA fan-made enhancement of the PC version of Cut the Rope.\n"
-    },
+		"en": "Cut the Rope: DX ver. %versionNo%\n\nA fan-made enhancement of the PC version of Cut the Rope.\n",
+		"ru": "Cut the Rope: DX версия %versionNo%\n\nФанатское улучшение ПК-версии Cut the Rope.\n",
+		"fr": "Cut the Rope: DX ver. %versionNo%\n\nUne amélioration fan-made de la version PC de Cut the Rope.\n",
+		"de": "Cut the Rope: DX ver. %versionNo%\n\nEine Fan-Erweiterung der PC-Version von Cut the Rope.\n"
+	},
     "ABOUT_FANWORK_PROJECT_WEBSITE": {
-        "en": "https://github.com/yell0wsuit/cuttherope-dx/"
+        "en": "https://github.com/yell0wsuit/cuttherope-dx/",
+		"ru": "https://github.com/yell0wsuit/cuttherope-dx/",
+		"fr": "https://github.com/yell0wsuit/cuttherope-dx/",
+		"de": "https://github.com/yell0wsuit/cuttherope-dx/"
     },
     "ABOUT_FANWORK_PROJECT_NOTE": {
-        "en": "\nOriginally developed and published by ZeptoLab.\n\nA Cut the Rope Home fan project."
-    },
+		"en": "\nOriginally developed and published by ZeptoLab.\n\nA Cut the Rope Home fan project.",
+		"ru": "\nИзначально разработан и выпущен ZeptoLab.\n\nФанатский проект Cut the Rope Home.",
+		"fr": "\nInitialement développé et publié par ZeptoLab.\n\nUn projet fan de Cut the Rope Home.",
+		"de": "\nUrsprünglich entwickelt und veröffentlicht von ZeptoLab.\n\nEin Fan-Projekt von Cut the Rope Home."
+	},
     "ABOUT_FANWORK_CTRH_WEBSITE": {
-        "en": "https://ctrhome.github.io/"
+        "en": "https://ctrhome.github.io/",
+		"ru": "https://ctrhome.github.io/",
+		"fr": "https://ctrhome.github.io/",
+		"de": "https://ctrhome.github.io/"
     },
     "ABOUT_FANWORK_LEAD": {
-        "en": "\nProject lead:\nyell0wsuit\n"
-    },
+		"en": "\nProject lead:\nyell0wsuit\n",
+		"ru": "\nРуководитель проекта:\nyell0wsuit\n",
+		"fr": "\nResponsable du projet:\nyell0wsuit\n",
+		"de": "\nProjektleiter:\nyell0wsuit\n"
+	},
     "ABOUT_FANWORK_TEAM": {
-        "en": "Cut the Rope Home team members:\n"
-    },
+		"en": "Cut the Rope Home team members:\n",
+		"ru": "Участники команды Cut the Rope Home:\n",
+		"fr": "Membres de l'équipe Cut the Rope Home:\n",
+		"de": "Mitglieder des Cut the Rope Home Teams:\n"
+	},
     "ABOUT_FANWORK_MEMBERS": {
-        "en": "8 Second Rocket\naidrum\nBingies24\ncv\nGenji\nMlopsFunny\nMrCatz\nsaulfabreg\nTheAwesomeBlue\nyell0wsuit\n\n"
+        "en": "8 Second Rocket\naidrum\nBingies24\ncv\nGenji\nMlopsFunny\nMrCatz\nsaulfabreg\nTheAwesomeBlue\nyell0wsuit\n\n",
+		"ru": "8 Second Rocket\naidrum\nBingies24\ncv\nGenji\nMlopsFunny\nMrCatz\nsaulfabreg\nTheAwesomeBlue\nyell0wsuit\n\n",
+		"fr": "8 Second Rocket\naidrum\nBingies24\ncv\nGenji\nMlopsFunny\nMrCatz\nsaulfabreg\nTheAwesomeBlue\nyell0wsuit\n\n",
+		"de": "8 Second Rocket\naidrum\nBingies24\ncv\nGenji\nMlopsFunny\nMrCatz\nsaulfabreg\nTheAwesomeBlue\nyell0wsuit\n\n"
     },
     "ABOUT_TEXT": {
         "en": "Cut the Rope PC version. Copyright 2012 by ZeptoLab.\n\nAdditional Design:\nNataliya Omelyanchuk\n\nMusic and Sounds:\nAlexander Falinski",
@@ -1041,15 +1074,27 @@
         "zh_tw": "繩索"
     },
     "OM_NOM_BTN": {
-        "en": "Om Nom"
-    },
+		"en": "Om Nom",
+		"ru": "Ам Ням",
+		"fr": "Om Nom",
+		"de": "Om Nom"
+	},
     "OUTDATED_WINDOWS_TITLE": {
-        "en": "Outdated Windows version detected!"
-    },
+		"en": "Outdated Windows version detected!",
+		"ru": "Обнаружена устаревшая версия Windows!",
+		"fr": "Version Windows obsolète détectée !",
+		"de": "Veraltete Windows-Version erkannt!"
+	},
     "OUTDATED_WINDOWS_TEXT": {
-        "en": "This Windows version is not officially supported. Bugs and crashes may occur.\nPlease do not open a GitHub issue or ask for help for problems caused by this configuration."
-    },
+		"en": "This Windows version is not officially supported. Bugs and crashes may occur.\nPlease do not open a GitHub issue or ask for help for problems caused by this configuration.",
+		"ru": "Эта версия Windows официально не поддерживается. Возможны ошибки и сбои.\nПожалуйста, не добавляйте проблему на GitHub и не обращайтесь за помощью по проблемам, вызванным этой конфигурацией.",
+		"fr": "Cette version de Windows n'est pas officiellement prise en charge. Des bugs et des plantages peuvent survenir.\nVeuillez ne pas ouvrir de ticket GitHub ni demander de l'aide pour des problèmes causés par cette configuration.",
+		"de": "Diese Windows-Version wird offiziell nicht unterstützt. Fehler und Abstürze können auftreten.\nBitte öffnen Sie keine GitHub-Issues und bitten Sie nicht um Hilfe für Probleme, die durch diese Konfiguration verursacht wurden."
+	},
     "STARTUP_LEGAL_DISCLAIMER": {
-        "en": "Original game by ZeptoLab.\nCut the Rope: DX is not, and will never be affiliated with or endorsed by ZeptoLab.\nAll rights to the original game and its assets belong to ZeptoLab."
-    }
+		"en": "Original game by ZeptoLab.\nCut the Rope: DX is not, and will never be affiliated with or endorsed by ZeptoLab.\nAll rights to the original game and its assets belong to ZeptoLab.",
+		"ru": "Оригинальная игра разработана ZeptoLab.\nCut the Rope: DX не имеет и никогда не будет иметь отношения к ZeptoLab или поддерживаться ими.\nВсе права на оригинальную игру и её ресурсы принадлежат ZeptoLab.",
+		"fr": "Jeu original de ZeptoLab.\nCut the Rope: DX n'est pas et ne sera jamais affilié à ZeptoLab ou approuvé par eux.\nTous les droits sur le jeu original et ses ressources appartiennent à ZeptoLab.",
+		"de": "Ursprüngliches Spiel von ZeptoLab.\nCut the Rope: DX ist nicht und wird nie mit ZeptoLab verbunden oder von ihnen unterstützt sein.\nAlle Rechte am Originalspiel und seinen Ressourcen gehören ZeptoLab."
+	}
 }
